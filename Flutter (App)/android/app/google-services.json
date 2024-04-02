@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778055199764",
+    "firebase_url": "https://proyecto-appropa-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-appropa",
+    "storage_bucket": "proyecto-appropa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778055199764:android:97748133690bc726150b01",
+        "android_client_info": {
+          "package_name": "com.example.desk_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778055199764-98l738mu2i1ab3mvf2ngup65mnbtudhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-F5I_9xMml6X1GBDImwbwM-l_2trBcxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778055199764-98l738mu2i1ab3mvf2ngup65mnbtudhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
